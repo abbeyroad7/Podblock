@@ -38,7 +38,7 @@ Whether this is worth the effort is up to you.
 - [SyncThing](https://syncthing.net/) - Sync finished files between your devices
 - [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app&hl=en_US) - Podcast app that allows importing audio files.
 # Installation
-Clone the github repo and install above dependencies.
+Clone the Github repo and install above dependencies.
 # Setup
 You will need pre-downloaded audio files/subtitles to use this script.
 
@@ -64,7 +64,7 @@ WhisperUI can be used on your computer locally to generate subtitles for audio c
 
 Here are the settings I have for my setup.
 
-![[https://github.com/abbeyroad7/Podblock/blob/main/Screenshots/easy-whisper-ui.webp]]
+![WhisperUI](Screenshots/easy-whisper-ui.webp)
 
 At the time of writing this, I am using a RTX 5070TI for transcribing, which takes around 45s/1hr audio.
 ### Podcast Rules
