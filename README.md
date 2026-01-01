@@ -64,7 +64,7 @@ WhisperUI can be used on your computer locally to generate subtitles for audio c
 
 Here are the settings I have for my setup.
 
-![[Screenshots\easy-whisper-ui.webp]]
+![[https://github.com/abbeyroad7/Podblock/blob/main/Screenshots/easy-whisper-ui.webp]]
 
 At the time of writing this, I am using a RTX 5070TI for transcribing, which takes around 45s/1hr audio.
 ### Podcast Rules
