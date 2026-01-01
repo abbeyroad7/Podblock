@@ -13,12 +13,12 @@ Once your keyword bank is built, you can expect to spend about 1-2 minutes per e
 
 Whether this is worth the effort is up to you.
 # Index
-- [Features](https://github.com/abbeyroad7/Podblock/Podblock?tab=readme-ov-file#Features)
-- [Requirements](https://github.com/abbeyroad7/Podblock/Podblock?tab=readme-ov-file#Requirements)
-- [Installation](https://github.com/abbeyroad7/Podblock/Podblock?tab=readme-ov-file#Installation)
-- [Setup](https://github.com/abbeyroad7/Podblock/Podblock?tab=readme-ov-file#Setup)
-- [How To Use](https://github.com/abbeyroad7/Podblock/Podblock?tab=readme-ov-file#How-to-use)
-- [Syncing](https://github.com/abbeyroad7/Podblock/Podblock?tab=readme-ov-file#Syncing)
+- [Features](https://github.com/abbeyroad7/Podblock?tab=readme-ov-file#Features)
+- [Requirements](https://github.com/abbeyroad7/Podblock?tab=readme-ov-file#Requirements)
+- [Installation](https://github.com/abbeyroad7/Podblock?tab=readme-ov-file#Installation)
+- [Setup](https://github.com/abbeyroad7/Podblock?tab=readme-ov-file#Setup)
+- [How To Use](https://github.com/abbeyroad7/Podblock?tab=readme-ov-file#how-to-use)
+- [Syncing](https://github.com/abbeyroad7/Podblock?tab=readme-ov-file#syncing)
 # Features
 - Supports only MP3 audio files currently.
 - Support SRT/VRT subtitles.
