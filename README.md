@@ -37,6 +37,7 @@ Whether this is worth the effort is up to you.
 - [Notepad++](https://notepad-plus-plus.org/) - Text editor
 - [SyncThing](https://syncthing.net/) - Sync finished files between your devices
 - [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app&hl=en_US) - Podcast app that allows importing audio files.
+- [qttabbar](https://github.com/indiff/qttabbar) - Extension to add tabbing functionality and multi-views to Windows Explorer.
 # Installation
 Clone the Github repo and install above dependencies.
 # Setup
