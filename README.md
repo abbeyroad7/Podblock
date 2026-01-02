@@ -80,7 +80,8 @@ You will find examples of these in the **Podblock\Podblock** folder.
 
 Each podcast will have a "**Sponsors**" folder, which is composed of multiple TXT files for the Podblock.ahk script to parse through.
 
-Each TXT file under the Sponsors folder uses the same format. The first line is the beginning of the segment. The second line is the end of the segment.
+Each TXT file under the Sponsors folder uses the same format.
+The first line is the beginning of the segment. The second line is the end of the segment.
 
 You will want to make the Sponsors text files to be precise enough to be found, but unique enough so that they are not called early.
 
@@ -90,6 +91,8 @@ The **Intro/Outro.txt** files can be multiple lines as they indicate the start a
 Once you have your podcast rules set, you can begin editing.
 
 Podblock can process one audio file at a time. Place **one** downloaded .mp3 and subtitle file in the root directory next to Podblock.ahk. Do not add multiple files to the root directory or the script may break.
+
+You can use **Adsniffer.ahk** to detect common words/phrases that may indicate if an ad break is present, which will assist in writing more precise podcast rules.
 
 Run Podblock.ahk. A command prompt window will popup as your audio file is being converted with FFMpeg.
 
