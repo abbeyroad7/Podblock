@@ -6,3 +6,4 @@ SinisterhoodPodcast,Sinisterhood
 TheUniversityofChicago,BigBrains
 TenderfootTV,RadioRental
 ABCAustralia,Conversations
+Rico,BigPictureScience
